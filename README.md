@@ -71,13 +71,18 @@ En esta modalidad, la biblioteca MPointers se usa de la siguiente forma:
 Todos los aspectos referentes a la planificación y administración del proyecto se pueden encontrar en la sección de [proyectos](https://github.com/edmobe/MPointers/projects) de este repositorio.
 
 ## Diagrama de clases
-
+![Diagrama](/Enunciado/diagrama.jpeg)
 
 ## Estructuras de datos desarrolladas
+### Listas doblemente enlazadas
+Se utilizan listas doblemente enlazadas para probar el funcionamiento de `MPointer` así como para el manejo de pedidos de cada cliente con el servidor.
 
+### Matrices
+Se utilizó una matriz para mapear la memoria que se utiliza para guardar información en el servidor.
 
 ## Algoritmos desarrollados
-
+### Algoritmos de ordenamiento
+Se utilizan  `QuickSort`, `BubbleSort` e `InsertionSort` para verificar el funcionamiento de `MPointer` con listas doblemente enlazadas.
 
 ## Problemas encontrados
 Todos los aspectos referentes a los problemas encontrados se pueden encontrar en la sección de [issues](https://github.com/edmobe/MPointers/issues) de este repositorio.
