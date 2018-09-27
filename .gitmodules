@@ -1,0 +1,6 @@
+[submodule "MServer"]
+	path = MServer
+	url = https://github.com/Abstractize/MServer
+[submodule "MPointer"]
+	path = MPointer
+	url = https://github.com/MariaAvila/MPointer
