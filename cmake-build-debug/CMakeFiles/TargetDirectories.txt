@@ -1,0 +1,3 @@
+/home/edmobe/TEC/Datos II/MPointers/cmake-build-debug/CMakeFiles/edit_cache.dir
+/home/edmobe/TEC/Datos II/MPointers/cmake-build-debug/CMakeFiles/rebuild_cache.dir
+/home/edmobe/TEC/Datos II/MPointers/cmake-build-debug/CMakeFiles/MPointers.dir
