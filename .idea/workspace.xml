@@ -41,32 +41,7 @@
     </configurations>
   </component>
   <component name="ChangeListManager">
-    <list default="true" id="fdc72ad0-71ef-4375-a576-fca1498c06b7" name="Default Changelist" comment="">
-      <change afterPath="$PROJECT_DIR$/MPointer/MPointer.cpp" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/MPointer/MPointer.h" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/MPointer/MPointerGC.cpp" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/MPointer/MPointerGC.h" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/MServer/AbstractDataType/DoublyLinkedList.cpp" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/CMakeLists.txt" beforeDir="false" afterPath="$PROJECT_DIR$/CMakeLists.txt" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/MPointer" beforeDir="false" afterPath="$PROJECT_DIR$/MPointer" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/MPointer/CMakeLists.txt" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/MPointer/Client.h" beforeDir="false" afterPath="$PROJECT_DIR$/MPointer/Client.h" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/MPointer/README.md" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/MPointer/library.cpp" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/MPointer/library.h" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/MPointer/main.cpp" beforeDir="false" afterPath="$PROJECT_DIR$/MPointer/main.cpp" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/MServer" beforeDir="false" afterPath="$PROJECT_DIR$/MServer" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/MServer/CMakeLists.txt" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/MServer/README.md" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/MServer/main.cpp" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/cmake-build-debug/CMakeFiles/MPointers.dir/CXX.includecache" beforeDir="false" afterPath="$PROJECT_DIR$/cmake-build-debug/CMakeFiles/MPointers.dir/CXX.includecache" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/cmake-build-debug/CMakeFiles/MPointers.dir/MPointer/MPointer.cpp.o" beforeDir="false" afterPath="$PROJECT_DIR$/cmake-build-debug/CMakeFiles/MPointers.dir/MPointer/MPointer.cpp.o" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/cmake-build-debug/CMakeFiles/MPointers.dir/MPointer/MPointerGC.cpp.o" beforeDir="false" afterPath="$PROJECT_DIR$/cmake-build-debug/CMakeFiles/MPointers.dir/MPointer/MPointerGC.cpp.o" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/cmake-build-debug/CMakeFiles/MPointers.dir/MPointer/main.cpp.o" beforeDir="false" afterPath="$PROJECT_DIR$/cmake-build-debug/CMakeFiles/MPointers.dir/MPointer/main.cpp.o" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/cmake-build-debug/CMakeFiles/MPointers.dir/MServer/AbstractDataType/DoublyLinkedList.cpp.o" beforeDir="false" afterPath="$PROJECT_DIR$/cmake-build-debug/CMakeFiles/MPointers.dir/MServer/AbstractDataType/DoublyLinkedList.cpp.o" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/cmake-build-debug/MPointers" beforeDir="false" />
-    </list>
+    <list default="true" id="fdc72ad0-71ef-4375-a576-fca1498c06b7" name="Default Changelist" comment="" />
     <ignored path="$PROJECT_DIR$/cmake-build-debug/" />
     <option name="EXCLUDED_CONVERTED_TO_IGNORED" value="true" />
     <option name="SHOW_DIALOG" value="false" />
@@ -159,8 +134,8 @@
       <file pinned="false" current-in-tab="true">
         <entry file="file://$PROJECT_DIR$/MPointer/MPointerGC.h">
           <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="152">
-              <caret line="28" column="36" lean-forward="true" selection-start-line="28" selection-start-column="36" selection-end-line="28" selection-end-column="36" />
+            <state relative-caret-position="302">
+              <caret line="32" column="5" lean-forward="true" selection-start-line="32" selection-start-column="5" selection-end-line="32" selection-end-column="5" />
               <folding>
                 <element signature="e#63#122#0" expanded="true" />
               </folding>
@@ -208,6 +183,7 @@
   <component name="FindInProjectRecents">
     <findStrings>
       <find>initialized</find>
+      <find>--</find>
     </findStrings>
   </component>
   <component name="Git.Settings">
@@ -352,12 +328,12 @@
       <workItem from="1538439686733" duration="324000" />
       <workItem from="1538518473636" duration="40110000" />
       <workItem from="1538683270525" duration="4964000" />
-      <workItem from="1538689158439" duration="2723000" />
+      <workItem from="1538689158439" duration="3326000" />
     </task>
     <servers />
   </component>
   <component name="TimeTrackingManager">
-    <option name="totallyTimeSpent" value="91914000" />
+    <option name="totallyTimeSpent" value="92517000" />
   </component>
   <component name="TodoView">
     <todo-panel id="selected-file">
@@ -546,8 +522,8 @@
     </entry>
     <entry file="file://$PROJECT_DIR$/MPointer/MPointerGC.h">
       <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="152">
-          <caret line="28" column="36" lean-forward="true" selection-start-line="28" selection-start-column="36" selection-end-line="28" selection-end-column="36" />
+        <state relative-caret-position="302">
+          <caret line="32" column="5" lean-forward="true" selection-start-line="32" selection-start-column="5" selection-end-line="32" selection-end-column="5" />
           <folding>
             <element signature="e#63#122#0" expanded="true" />
           </folding>
