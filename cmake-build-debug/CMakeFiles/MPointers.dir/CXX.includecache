@@ -26,6 +26,12 @@ iostream
 json.hpp
 /home/edmobe/TEC/Datos II/MPointers/MPointer/json.hpp
 
+/home/edmobe/TEC/Datos II/MPointers/MPointer/MPointer.cpp
+MPointerGC.h
+/home/edmobe/TEC/Datos II/MPointers/MPointer/MPointerGC.h
+MPointer.h
+/home/edmobe/TEC/Datos II/MPointers/MPointer/MPointer.h
+
 /home/edmobe/TEC/Datos II/MPointers/MPointer/MPointer.h
 iostream
 -
@@ -34,9 +40,17 @@ typeinfo
 MPointerGC.h
 /home/edmobe/TEC/Datos II/MPointers/MPointer/MPointerGC.h
 
+/home/edmobe/TEC/Datos II/MPointers/MPointer/MPointerGC.cpp
+MPointerGC.h
+/home/edmobe/TEC/Datos II/MPointers/MPointer/MPointerGC.h
+
 /home/edmobe/TEC/Datos II/MPointers/MPointer/MPointerGC.h
 ../MServer/AbstractDataType/DoublyLinkedList.cpp
 /home/edmobe/TEC/Datos II/MPointers/MServer/AbstractDataType/DoublyLinkedList.cpp
+chrono
+-
+thread
+-
 
 /home/edmobe/TEC/Datos II/MPointers/MPointer/json.hpp
 algorithm
